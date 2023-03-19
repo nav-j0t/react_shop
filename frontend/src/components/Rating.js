@@ -14,6 +14,7 @@ const Rating = ({ value, text }) => {
           }
         ></i>
       </span>
+
       <span>
         <i
           className={
