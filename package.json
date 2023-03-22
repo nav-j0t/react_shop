@@ -1,0 +1,22 @@
+{
+  "name": "mern_react_shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nav-j0t/react_shop.git"
+  },
+  "author": "Navjot Singh Bedi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nav-j0t/react_shop/issues"
+  },
+  "homepage": "https://github.com/nav-j0t/react_shop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
